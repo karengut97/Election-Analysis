@@ -37,7 +37,7 @@ The following resoures were used to analyze the results:
 For the purpose of this analysis, the results are communicated in two formats.
 1. An output file: "election_results.txt"
 2. A terminal window output:
-
+![Mod_3_Challenge_Election_Results_Term_Output.png](Resources/Mod_3_Challenge_Election_Results_Term_Output.png)
 
 ## Election Audit Summary
 
